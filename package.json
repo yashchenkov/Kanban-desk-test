@@ -1,0 +1,19 @@
+{
+  "name": "kanbandesk",
+  "version": "1.0.0",
+  "description": "kanban desk test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashchenkov/Kanban-desk-test.git"
+  },
+  "author": "yashchenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashchenkov/Kanban-desk-test/issues"
+  },
+  "homepage": "https://github.com/yashchenkov/Kanban-desk-test#readme"
+}
